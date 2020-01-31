@@ -45,7 +45,6 @@ class Asciinema {
       }
       $parser->getOutput()->addModuleStyles( 'ext.asciinema' );
 	  $out = '<asciinema-player ' . $playerargs .'></asciinema-player>';
-   	  error_log($out);
 	  return $out;
 	}	
 
