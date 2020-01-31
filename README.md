@@ -7,4 +7,5 @@ This is an Asciinema plugin for MediaWiki
 
 add it to LocalSettings.php
 
+
 Once set up, running `npm test` and `composer test` will run automated code checks.
