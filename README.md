@@ -1,4 +1,5 @@
 This is an Asciinema plugin for MediaWiki
+
 ==Install==
 	cd [wikilocation]/extensions
 	git clone https://github.com/tonningp/mw-asciinema.git Asciinema
