@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Your Name"
+			"Paul Tonning"
 		]
 	},
-	"boilerplate-desc": "This is an example extension"
+	"asciinema-desc": "This is an extension for displaying asciinema casts"
 }

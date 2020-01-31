@@ -1,10 +1,9 @@
 ( function () {
-
 	/**
-	 * @class mw.boilerPlate
+	 * @class mw.asciinema
 	 * @singleton
 	 */
-	mw.boilerPlate = {
+	mw.asciinema = {
 	};
 
 }() );

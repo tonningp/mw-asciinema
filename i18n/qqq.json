@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Your Name"
+			"Paul Tonning"
 		]
 	},
-	"boilerplate-desc": "{{desc|name=Boilerplate|url=https://www.mediawiki.org/wiki/Extension:Boilerplate}}"
+	"asciinema-desc": "{{desc|name=Asciinema|url=https://www.mediawiki.org/wiki/Extension:Asciinema}}"
 }
